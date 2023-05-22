@@ -1,0 +1,5 @@
+1)logman1 -w 1 data.in.txt
+logman1 -w 7 data.in.txt
+2)logman1 -r 6 data.in.txt
+logman1 -r 566 data.in.txt
+logman1 -r 2 data.in.txt

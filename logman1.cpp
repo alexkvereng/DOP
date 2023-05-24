@@ -72,9 +72,9 @@ int main(int argc, char* argv[])
 					for (int hy = 0; hy < y6 + 1; hy++) {
 						hj0 += a4[hy];
 					}
-					if (hj0 != "") {
-						f1 << hj0;
-					}
+					
+						f1 << a4;
+					
 
 					f1.close();
 					io = 1;

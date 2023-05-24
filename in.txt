@@ -1,0 +1,11 @@
+hghjgjhfjhfjh
+1 1
+hghjgj
+2 2
+hghjgj
+3 3
+hghjgj
+4 4
+hghjgjhfjhfjh
+5 5
+hghjgjhfjhfjh  logman1 -w 2 data.in.txtl

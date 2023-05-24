@@ -1,0 +1,12 @@
+1 1
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txt
+2 2
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txt
+3 3
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txt
+4 566
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txt
+5 54
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txtl
+6 345354
+hghjgjhfjhfjh 1 1 hghjgj 2 2 hghjgj 3 3 hghjgj 4 4 hghjgjhfjhfjh 5 5 hghjgjhfjhfjh  logman1 -w 2 data.in.txtl  
